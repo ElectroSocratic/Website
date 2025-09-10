@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Control Benchmarks for a Double Inverted Pendulum",
+    "summary": "Perception and control systems for mobile manipulators.",
+    "link": "#"
+  },
+  {
+    "title": "Scalable Land-Air Robot Design using Bistable Compliant Mechanisms",
+    "summary": "Creative systems and interactive visuals.",
+    "link": "#"
+  },
+  {
+    "title": "Dynamic Obstacle Avoidance for a UGV using Depth Estimation Models on Monocular Cameras",
+    "summary": "TinyML models and edge inference experiments.",
+    "link": "#"
+  },
+  {
+    "title": "Novel Impeller Shaft Design for Septic Tank Cleaning",
+    "summary": "TinyML models and edge inference experiments.",
+    "link": "#"
+  },
+    {
+    "title": "6 DOF Robotic Arm for EV Charging",
+    "summary": "TinyML models and edge inference experiments.",
+    "link": "#"
+  }
+]

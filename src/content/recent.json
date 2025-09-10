@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Control Benchmarks for a Double Inverted Pendulum",
+    "summary": "Evaluating control algorithms such as LQR, MPC, and RL in real-world scenarios.",
+    "link": "#/projects"
+  },
+  {
+    "title": "Scalable Land-Air Robot Design using Bistable Compliant Mechanisms",
+    "summary": "Using compliant mechanisms bring swarm robots out of research labs.",
+    "link": "#/projects"
+  },
+  {
+    "title": "Dynamic Obstacle Avoidance for a UGV using Depth Estimation Models on Monocular Cameras",
+    "summary": "Removing expensive LiDAR sensors from UGVs.",
+    "link": "#/projects"
+  }
+]
